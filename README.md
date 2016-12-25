@@ -16,5 +16,5 @@
 * Salir: Finaliza la ejecución del programa
 
 
-
+    
 ![Ruleta](/ruleta.PNG)

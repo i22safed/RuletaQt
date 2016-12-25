@@ -15,6 +15,5 @@
 * Jugar: Simula el lanzamiento de la ruleta mostrando el numero, los premios de cada uno y lo que gana/pierde la banca
 * Salir: Finaliza la ejecución del programa
 
-
-    
+  
 ![Ruleta](/ruleta.PNG)

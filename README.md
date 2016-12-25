@@ -17,5 +17,4 @@
 
 
 
-
 ![Ruleta](/ruleta.PNG)

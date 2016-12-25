@@ -15,4 +15,4 @@
 * Añadir jugador: Añade un jugador a la mensaje
 * Salir: Finaliza la ejecución del programa
 
-![Ruleta](/ruleta.png)
+![Ruleta](/ruleta.PNG)
